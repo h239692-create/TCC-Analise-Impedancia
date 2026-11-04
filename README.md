@@ -45,12 +45,12 @@ $$
 
 Em que:
 
-- \(R\): resistência elétrica (Ω);
-- \(C\): capacitância elétrica (F);
-- \(Q\): coeficiente do elemento de fase constante (CPE);
-- \(\alpha\): expoente adimensional do CPE;
-- \(\omega=2\pi f\): frequência angular (rad/s);
-- \(j\): unidade imaginária.
+- $R$: resistência elétrica (Ω);
+- $C$: capacitância elétrica (F);
+- $Q$: coeficiente do elemento de fase constante (CPE);
+- $\alpha$: expoente adimensional do CPE;
+- $\omega=2\pi f$: frequência angular (rad/s);
+- $j$: unidade imaginária.
 
 ## 3. Metodologia computacional
 
