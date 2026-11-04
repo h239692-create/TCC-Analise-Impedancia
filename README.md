@@ -23,9 +23,9 @@ São considerados três modelos:
 
 Representa um comportamento predominantemente resistivo:
 
-\[
+$$
 Z(\omega)=R
-\]
+$$
 
 ### Modelo resistor em paralelo com capacitor (R ∥ C)
 
