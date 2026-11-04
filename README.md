@@ -31,17 +31,17 @@ $$
 
 Representa um comportamento resistivo-capacitivo ideal:
 
-\[
+$$
 Z(\omega)=\frac{1}{\frac{1}{R}+j\omega C}
-\]
+$$
 
 ### Modelo resistor em paralelo com elemento de fase constante (R ∥ CPE)
 
 Representa um comportamento resistivo-capacitivo não ideal:
 
-\[
+$$
 Z(\omega)=\frac{1}{\frac{1}{R}+Q(j\omega)^\alpha}
-\]
+$$
 
 Em que:
 
